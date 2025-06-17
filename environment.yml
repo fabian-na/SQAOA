@@ -1,0 +1,11 @@
+name: SQAOA
+
+dependencies:
+  - python==3.10
+  - pip
+  - pip:
+    - cirq
+    - networkx
+    - numpy
+    - scikit-quant
+    - ipykernel

@@ -1,0 +1,5 @@
+results/*
+datasets/*
+init_points/*
+
+__pycache__
